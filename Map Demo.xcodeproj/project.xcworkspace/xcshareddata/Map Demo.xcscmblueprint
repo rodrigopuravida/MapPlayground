@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E0F4012F96F9C4158804D1D4C705FC0213881599",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8D0337B7A87B976987344309A2C2142FE55E999C" : 0,
+    "E0F4012F96F9C4158804D1D4C705FC0213881599" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F55D0640-DBEB-4673-BB8C-61AD4181BBAF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8D0337B7A87B976987344309A2C2142FE55E999C" : "",
+    "E0F4012F96F9C4158804D1D4C705FC0213881599" : "MapPrototype\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Map Demo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Map Demo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rodrigopuravida\/WebContentDownloadPrototype.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8D0337B7A87B976987344309A2C2142FE55E999C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rodrigopuravida\/MapPlayground.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E0F4012F96F9C4158804D1D4C705FC0213881599"
+    }
+  ]
+}
